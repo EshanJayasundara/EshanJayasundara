@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eshan Jayasundara</h1>
 <h3 align="center">A Dedicated Computer Engineering Undergraduate at University of Peradeniya</h3>
 
-- 🔭 I’m currently working on [e19-co226-Medical-Clinic-Manager](https://github.com/cepdnaclk/e19-co226-Medical-Clinic-Manager)
+- 🔭 I’m currently working on [e19-co226-Training-Management-System](https://github.com/cepdnaclk/e19-co227-Training-Management-System)
 
 - 🌱 I’m currently learning **Spring boot**
 
