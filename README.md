@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eshan Jayasundara</h1>
 <h3 align="center">A Dedicated Computer Engineering Undergraduate at University of Peradeniya</h3>
 
-- 🔭 I’m currently working on [First-Person-AR-Game-with-Localization](github.com/cepdnaclk/e19-3yp-First-Person-AR-Game-with-Localization)
+- 🔭 I’m currently working on [First-Person-AR-Game-with-Localization](https://github.com/cepdnaclk/e19-3yp-First-Person-AR-Game-with-Localization)
 
 - 🌱 I’m currently learning **Spring boot**
 
