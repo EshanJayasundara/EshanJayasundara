@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Eshan Jayasundara</h1>
 <h3 align="center">A Dedicated Computer Engineering Undergraduate at University of Peradeniya</h3>
 
-- 🔭 I’m currently working on [First-Person-AR-Game-with-Localization](https://github.com/cepdnaclk/e19-3yp-First-Person-AR-Game-with-Localization)
+- 🔭 I’m currently working on [Ecommerce-Auction-Website](https://github.com/cepdnaclk/e19-co328-Ecommerce-Auction-Website)
 
-- 🌱 I’m currently learning **Spring boot**
+- 🌱 I’m currently learning **Machine Learning**
 
-- 💬 Ask me about **Computer Hardware, Web app developmet with Spring boot**
+- 💬 Ask me about **Computer Hardware, and Machine Learning**
 
-- 📫 How to reach me **e19163@eng.pdn.ac.lk**
+- 📫 How to reach me **eshan@ieee.org**
 
 - ⚡ Fun fact **I think I'm talkative**
 
