@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eshan Jayasundara</h1>
 <h3 align="center">A Dedicated Computer Engineering Undergraduate at University of Peradeniya</h3>
 
-- 🔭 I’m currently working on [Ecommerce-Auction-Website](https://github.com/cepdnaclk/e19-co328-Ecommerce-Auction-Website)
+- 🔭 I’m currently working on [SinhalaTTS Model](https://github.com/EshanJayasundara/SinhalaTTS)
 
 - 🌱 I’m currently learning **Machine Learning**
 
