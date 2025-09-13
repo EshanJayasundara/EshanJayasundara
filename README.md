@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Computer Hardware, and Machine Learning**
 
-- 📫 How to reach me **eshan@ieee.org**
+- 📫 How to reach me **jayasundara.jmeg@gmaiil.com**
 
 - ⚡ Fun fact **I think I'm talkative**
 
